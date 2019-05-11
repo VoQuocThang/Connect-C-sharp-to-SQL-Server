@@ -37,4 +37,6 @@ Use System.Data as a library supports for Database Management
 - Create a SqlDataAdapter (We use SqlDataAdapter to insert/update/delete data)
 - Put connection and query into InsertCommand/UpdateCommand/DeleteComand
 - Execute it with non query as parameter
+
+Reference: https://www.guru99.com/c-sharp-access-database.html
        
