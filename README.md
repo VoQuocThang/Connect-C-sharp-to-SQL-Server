@@ -1,9 +1,9 @@
 # Connect-C-sharp-to-SQL-Server
 Step to step how to connect C# to SQL Server.
 
-***Use System.Data as a library supports for Database Management 
+Use System.Data as a library supports for Database Management 
 
-**1. HOW TO CONNECT?
+1. HOW TO CONNECT?
 - Create a variable that has 'SqlConnection' type
 - Use a string (URL) to contain information of the connection.
   URL includes :  + Data Source: Name of server 
@@ -15,7 +15,7 @@ Step to step how to connect C# to SQL Server.
 - Bind connection wih URL 
 - Call open() to open a connection with database.
 - Call close() to close connection with database.
-**2. HOW TO FETCH DATA?
+2. HOW TO FETCH DATA?
 - Create a variable type of 'SQLCommand' (SQLCommand is a class responsible for read and write data into or from database)
 - Create a cursor to read Data. In C#, it's called 'SqlDataReader'
 - Save your query in string
@@ -25,7 +25,7 @@ Step to step how to connect C# to SQL Server.
 - Call GetValue(index) to get value of a specific column
 - Dipose your command when it's done
 
-**3. HOW TO VIEW DATA IN TABLE?
+3. HOW TO VIEW DATA IN TABLE?
 - Bind connection and your query into command
 - Put command into SqlDataAdapter
 - Create a DataTable
@@ -33,7 +33,7 @@ Step to step how to connect C# to SQL Server.
 - Draw a dataGridView in your Design form
 - Binding your DataTable into DataResoure of dataGridView (dataGridView.DataSource = new BindingSource(table,null))
 
-**4. HOW TO INSERT/UPDATE/DELETE DATA?
+4. HOW TO INSERT/UPDATE/DELETE DATA?
 - Create a SqlDataAdapter (We use SqlDataAdapter to insert/update/delete data)
 - Put connection and query into InsertCommand/UpdateCommand/DeleteComand
 - Execute it with non query as parameter
