@@ -1,0 +1,10 @@
+D:\database\SimpleDatabaseConnection\SimpleDatabaseConnection\bin\Debug\SimpleDatabaseConnection.exe.config
+D:\database\SimpleDatabaseConnection\SimpleDatabaseConnection\bin\Debug\SimpleDatabaseConnection.exe
+D:\database\SimpleDatabaseConnection\SimpleDatabaseConnection\bin\Debug\SimpleDatabaseConnection.pdb
+D:\database\SimpleDatabaseConnection\SimpleDatabaseConnection\obj\Debug\SimpleDatabaseConnection.csprojAssemblyReference.cache
+D:\database\SimpleDatabaseConnection\SimpleDatabaseConnection\obj\Debug\SimpleDatabaseConnection.Form1.resources
+D:\database\SimpleDatabaseConnection\SimpleDatabaseConnection\obj\Debug\SimpleDatabaseConnection.Properties.Resources.resources
+D:\database\SimpleDatabaseConnection\SimpleDatabaseConnection\obj\Debug\SimpleDatabaseConnection.csproj.GenerateResource.cache
+D:\database\SimpleDatabaseConnection\SimpleDatabaseConnection\obj\Debug\SimpleDatabaseConnection.csproj.CoreCompileInputs.cache
+D:\database\SimpleDatabaseConnection\SimpleDatabaseConnection\obj\Debug\SimpleDatabaseConnection.exe
+D:\database\SimpleDatabaseConnection\SimpleDatabaseConnection\obj\Debug\SimpleDatabaseConnection.pdb
