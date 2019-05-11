@@ -1,4 +1,4 @@
-# Connect-C-sharp-to-SQL-Server
+# Connect C# to SQL Server
 Step to step how to connect C# to SQL Server.
 
 Use System.Data as a library supports for Database Management 
